@@ -23,7 +23,7 @@ Interpret the result in plain language
 ### 📊 Power BI Dashboard
 Visual breakdown: average salaries by role
 
-Boxplot or violin plot to show spread and outliers
+Boxplot or to show spread and outliers
 
 Summary text block highlighting key finding and statistical result
 
