@@ -1,5 +1,5 @@
-# 📂 Data Analyst vs. Software Engineer Salary Comparison
-This project tests whether Data Analysts and Software Engineers earn the same average salary using data from a kaggle dataset. It combines Python statistical analysis and a clear Power BI dashboard to communicate the results.
+# 📂 Data Scientist vs. Software Engineer Salary Comparison
+This project tests whether Data Scientists and Software Engineers earn the same average salary using data from Kaggle. It combines Python statistical analysis and a clear Power BI dashboard to communicate the results.
 The Kaggle dataset can be found in the data folder or https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
 
 ## ✅ Project Goal
