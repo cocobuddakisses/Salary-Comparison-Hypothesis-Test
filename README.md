@@ -6,7 +6,7 @@ To answer a practical, real-world question:
 
 Are Data Analysts and Software Engineers paid equally on average, or is there a significant pay gap?
 
-##📈 What’s Included
+## 📈 What’s Included
 ### 🗂️ Notebook (Python)
 Clean and filter salary data
 
